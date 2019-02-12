@@ -1,3 +1,5 @@
+*{
+  font-family: Arial;}
 h1{
   font-family: "Courier New", monospace;
   color: blue;}
@@ -8,3 +10,6 @@ img.align-center{
 
 img.medium{
   width: 800px;  height: 600px;} 
+
+table, th, td{
+  border: 1px solid black;}
