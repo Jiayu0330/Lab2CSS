@@ -1,4 +1,10 @@
 h1{
   font-family: "Courier New", monospace;
-  color: blue;
-}
+  color: blue;}
+
+img.align-center{  
+  display: block;  
+  margin: 0px auto;} 
+
+img.medium{
+  width: 800px;  height: 600px;} 
