@@ -3,6 +3,9 @@
 h1{
   font-family: "Courier New", monospace;
   color: blue;}
+body{
+  font-family: Arial;
+  text-align: justify;}
 
 img.align-center{  
   display: block;  
